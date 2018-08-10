@@ -1,0 +1,31 @@
+{
+  "name": "niftyfifty",
+  "version": "0.10.1",
+  "description": "Nifty, Data, Finance",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivivekyadav/niftyfifty.git"
+  },
+  "keywords": [
+    "Data",
+    "Finance",
+    "Nifty",
+    "50",
+    "Data",
+    "Science"
+  ],
+  "author": "Vivek Yadav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivivekyadav/niftyfifty/issues"
+  },
+  "homepage": "https://github.com/ivivekyadav/niftyfifty#readme",
+  "dependencies": {
+    "json2csv": "^4.2.1",
+    "request": "^2.88.0"
+  }
+}
